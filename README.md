@@ -1,2 +1,2 @@
 # nmap2json
-Conver nmap XML output to JSON
+Convert nmap XML output to JSON
