@@ -1,5 +1,15 @@
 # nmap2json
 
+Convert nmap XML FILE(s) to JSON
+
+## Installation 
+
+```
+go get github.com/tidalmigrations/nmap2json
+```
+
+## Usage
+
 ```
 Usage: nmap2json [OPTION]... [FILE]...
 Convert nmap XML FILE(s) to JSON
